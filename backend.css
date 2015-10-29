@@ -1,0 +1,23 @@
+
+ul.listcreated li { 
+	color: green;
+	}
+span.red  { 
+	color: red; 
+	}
+table.row_a tr td      { 
+	padding: 3px;
+	border-bottom: 2px solid #fff;
+	}
+	
+thead	{ 
+	font-weight: bold; 
+	background-color: #c7d1db; 
+	height: 25px;
+	}
+tfoot 	{
+	background-color: #c7d1db; 
+	height: 10px;
+	}	
+button    { text-align: left; padding-top: 2px; padding-bottom: 2px; padding-left: 4px; width: auto }
+button img   { margin: 1px 3px -2px }
